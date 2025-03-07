@@ -2,7 +2,7 @@
 
 ## Sources
 
-- [ArjanCodes - COMPLETE No-Nonsense VSCode Setup for Python Devs]{https://www.youtube.com/watch?v=PwGKhvqJCQM}
+- [ArjanCodes - COMPLETE No-Nonsense VSCode Setup for Python Devs](https://www.youtube.com/watch?v=PwGKhvqJCQM)
 
 ## Instructions
 
