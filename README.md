@@ -7,3 +7,6 @@
 ## Instructions
 
 TODO: write down what I did
+
+## VScode extension versions
+- VSCode: 
